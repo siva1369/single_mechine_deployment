@@ -15,7 +15,7 @@ git clone https://github.com/siva1369/single_mechine_deployment.git
 
 go in to that folder 
 
-cd Ecart
+cd single_mechine_deployment.git
 
 mvn clean package -DskipTests=true  // package the source code
 
