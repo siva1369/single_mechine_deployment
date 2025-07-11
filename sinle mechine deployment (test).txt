@@ -11,7 +11,7 @@ docker
 
 download the code from git hub
 
-git clone https://github.com/jaiswaladi246/Ekart
+git clone https://github.com/siva1369/single_mechine_deployment.git
 
 go in to that folder 
 
