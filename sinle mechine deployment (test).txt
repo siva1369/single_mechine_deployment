@@ -17,6 +17,11 @@ go in to that folder
 
 cd single_mechine_deployment.git
 
+
+mvn clean compile 
+
+mvn test
+
 mvn clean package -DskipTests=true  // package the source code
 
 
